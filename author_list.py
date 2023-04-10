@@ -97,7 +97,7 @@ authors = [
 #{'name': 'A.~M\\"{o}ller', 'affiliations': ['Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Mail Number H29, PO Box 218, 31122 Hawthorn, VIC, Australia', 'ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav), Hawthorn VIC 3122, Australia'], 'email': 'amoller@swin.edu.au'},
 {'name': 'D.~Morris', 'affiliations': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'], 'email': 'dmorris@UVI.EDU'},
 {'name': 'R.~Natsvlishvili', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'], 'email': 'rezonats@YAHOO.COM'},
-#{'name': 'F.~Navarete', 'affiliations': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"], 'email': 'navarete@GMAIL.COM'},
+{'name': 'F.~Navarete', 'affiliations': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"], 'email': 'navarete@GMAIL.COM', 'orcid': '0000-0002-0284-0578'},
 {'name': 'V.~Nedora', 'affiliations': ['Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Am M{\\"u},hlenberg 1, D-14476, Germany'], 'email': 'vsevolod.nedora@gmail.com'},
 #{'name': 'S.~Nissanke', 'affiliations': ['GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands'], 'email': 's.m.nissanke@UVA.NL'},
 {'name': 'K.~Noonan', 'affiliations': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'], 'email': 'kyle.noonan86@gmail.com'},
